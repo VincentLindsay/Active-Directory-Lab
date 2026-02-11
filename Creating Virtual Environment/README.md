@@ -35,6 +35,9 @@ This section involves the implmentation of the virutal machines, as well as the 
 * You can treat it like a local Windows account, and for the username I used my first name
 * Create a password, and make answers to the security questions
 * I selected no to all of the privacy settings
+* Here is the homescreen of a successful Windows 11 Enterprise installation:
+<img width="1022" height="768" alt="image" src="https://github.com/user-attachments/assets/79444eff-8e0c-4a43-a0ee-4b9acbf3beae" />
+
 
 
 
