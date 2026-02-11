@@ -2,13 +2,13 @@
 This section involves the implmentation of the virutal machines, as well as the configuring of them for our Active Directory environment. This lab also serves as a chance for me to fill in knowledge gaps about navigating the Windows and Linux filesystems.
 
 # Table of Contents
-*[Hypervisor Setup]
-*[Setting Up Windows Client]
+- [Hypervisor Setup](#Hypervisor-Setup)
+- [Setting Up Windows Client](#Setting-up-Windows-Client)
 
 
 # Hypervisor Setup
 * For this lab, I used VMware
-* For more details about my installation of the hypervisor, check my Attack & Defend [Project](https://github.com/VincentLindsay/Security-Analysis-Projects/tree/main/Attack%20%26%20Defend%20lab#Setting-up-VirtualBox)
+* For more details about my installation of the hypervisor, check my Attack & Defend [project](https://github.com/VincentLindsay/Security-Analysis-Projects/tree/main/Attack%20%26%20Defend%20lab#Setting-up-VirtualBox)
 
 # Setting up Windows 11 Machine
 * This Client will utilize a Windows 11 Enterprise retrieved from Microsoft's evaluation [center](https://www.microsoft.com/en-us/evalcenter)
@@ -27,7 +27,13 @@ This section involves the implmentation of the virutal machines, as well as the 
 * I did not enable secure boot, and kept the Firmware type to be UEFI
 * I allocated 4 CPU cores, 8 GB of RAM, and 80 GB of storage for this VM
 * Once the VM is booted up, follow the installation instructions
-  
+* Now that Windows is successfully booted, follow the setup instructions
+* Once you reach the sign in options page, choose the Domain join instead option
+<img width="397" height="442" alt="image" src="https://github.com/user-attachments/assets/580fbcb8-f5e0-42a3-8804-8e052f5f44bd" />
+* You can treat it like a local Windows account, and for the username I used my first name
+* Create a password, and make answers to the security questions
+* I selected no to all of the privacy settings
+
 
 
 
