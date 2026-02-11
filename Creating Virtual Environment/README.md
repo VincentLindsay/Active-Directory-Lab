@@ -17,6 +17,7 @@ This section involves the implmentation of the virutal machines, as well as the 
 * For these boxes, I entered dummy information
 * Once the information is entered I chose the 64-bit download for English(United States)
 <img width="1013" height="203" alt="image" src="https://github.com/user-attachments/assets/e7cbed9f-2b46-46d3-9962-60256b63b560" />
+
 * Now that the ISO is downloaded, I can now create a new virtual machine
 * I chose a custom installation, and named the machine **Windows AD Client**
 
@@ -30,6 +31,7 @@ This section involves the implmentation of the virutal machines, as well as the 
 * Now that Windows is successfully booted, follow the setup instructions
 * Once you reach the sign in options page, choose the Domain join instead option
 <img width="397" height="442" alt="image" src="https://github.com/user-attachments/assets/580fbcb8-f5e0-42a3-8804-8e052f5f44bd" />
+
 * You can treat it like a local Windows account, and for the username I used my first name
 * Create a password, and make answers to the security questions
 * I selected no to all of the privacy settings
