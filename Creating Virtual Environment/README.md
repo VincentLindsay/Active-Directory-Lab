@@ -56,6 +56,10 @@ This section involves the implmentation of the virtual machines, as well as the 
 * Since I'm using NAT, the network settings do not matter for this lab
 * I chose the interactive installation, and default settings, as well as the installation of third-party drivers
 <img width="933" height="386" alt="image" src="https://github.com/user-attachments/assets/bf261917-72cb-4dd6-972a-074f36154f22" />
+* Once I was logged in to the Ubuntu Machine, I updated and upgraded the packages using the following commands
+```Bash
+sudo apt update && sudo apt upgrade -y
+```
 * I will configure the settings for Active Directory in a different section
 
 
