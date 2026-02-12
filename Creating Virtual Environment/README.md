@@ -51,6 +51,14 @@ This section involves the implmentation of the virtual machines, as well as the 
 * For the VM, I committed 6 GB of RAM, 75 GB of storage, and 2 processors
 * Since the manual configuration of the VM does not involve the addition of the ISO, I added the Ubuntu ISO after the configuration of the VM
 <img width="885" height="911" alt="image" src="https://github.com/user-attachments/assets/fc5c0d55-58e0-4491-b480-9267a67f3e7e" />
+* Now I can setup Ubuntu
+<img width="957" height="681" alt="image" src="https://github.com/user-attachments/assets/e2ed0baf-cfdd-4e91-9f4b-1b8668e6c615" />
+* Since I'm using NAT, the network settings do not matter for this lab
+* I chose the interactive installation, and default settings, as well as the installation of third-party drivers
+<img width="933" height="386" alt="image" src="https://github.com/user-attachments/assets/bf261917-72cb-4dd6-972a-074f36154f22" />
+* I will configure the settings for Active Directory in a different section
+
+
 
 
 
