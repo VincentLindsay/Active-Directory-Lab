@@ -1,10 +1,13 @@
 # Creating our Virtual Environment
-This section involves the implmentation of the virutal machines, as well as the configuring of them for our Active Directory environment. This lab also serves as a chance for me to fill in knowledge gaps about navigating the Windows and Linux filesystems.
+This section involves the implmentation of the virtual machines, as well as the configuring of them for our Active Directory environment. This lab will involve the development of several virtual machines, the machines are as follows:
+* Windows 11 Enterprise
+* Windows Server 2022
+* Ubuntu Linux
 
 # Table of Contents
 - [Hypervisor Setup](#Hypervisor-Setup)
 - [Setting up Windows Client](#Setting-up-Windows-Client)
-- [Setting up Ubuntu Client]
+- [Setting up Ubuntu Client](#Setting-up-Ubuntu-Client)
 
 
 # Hypervisor Setup
@@ -38,6 +41,8 @@ This section involves the implmentation of the virutal machines, as well as the 
 * I selected no to all of the privacy settings
 * Here is the homescreen of a successful Windows 11 Enterprise installation:
 <img width="1022" height="768" alt="image" src="https://github.com/user-attachments/assets/79444eff-8e0c-4a43-a0ee-4b9acbf3beae" />
+
+# Setting up Ubuntu Client
 
 
 
