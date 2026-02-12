@@ -3,7 +3,8 @@ This section involves the implmentation of the virutal machines, as well as the 
 
 # Table of Contents
 - [Hypervisor Setup](#Hypervisor-Setup)
-- [Setting Up Windows Client](#Setting-up-Windows-Client)
+- [Setting up Windows Client](#Setting-up-Windows-Client)
+- [Setting up Ubuntu Client]
 
 
 # Hypervisor Setup
