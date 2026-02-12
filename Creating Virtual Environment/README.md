@@ -2,7 +2,7 @@
 This section involves the implmentation of the virtual machines, as well as the configuring of them for our Active Directory environment. This lab will involve the development of several virtual machines, the machines are as follows:
 * Windows 11 Enterprise
 * Windows Server 2022
-* Ubuntu Linux
+* Ubuntu Desktop Linux (Version 24.04)
 
 # Table of Contents
 - [Hypervisor Setup](#Hypervisor-Setup)
@@ -43,6 +43,15 @@ This section involves the implmentation of the virtual machines, as well as the 
 <img width="1022" height="768" alt="image" src="https://github.com/user-attachments/assets/79444eff-8e0c-4a43-a0ee-4b9acbf3beae" />
 
 # Setting up Ubuntu Client
+* To download the Ubuntu ISO, navigate to Ubuntu's download page for their desktop (iteration)[https://ubuntu.com/download/desktop]
+<img width="842" height="517" alt="image" src="https://github.com/user-attachments/assets/2568ff16-81f7-487e-8953-bd984570117a" />
+* You do not have to sign up for the newsletter for the download to continue, it will happen automatically
+* Once the ISO was downloaded, I began the process on creating a VM for Ubuntu
+* VMware has a feature known as easy install that is similar to the unattended installation feature on Virtual Box. For this lab I did not use this feature, and completed the setup manually
+* For the VM, I committed 6 GB of RAM, 75 GB of storage, and 2 processors
+* Since the manual configuration of the VM does not involve the addition of the ISO, I added the Ubuntu ISO after the configuration of the VM
+<img width="885" height="911" alt="image" src="https://github.com/user-attachments/assets/fc5c0d55-58e0-4491-b480-9267a67f3e7e" />
+
 
 
 
